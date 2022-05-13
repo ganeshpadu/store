@@ -8,7 +8,7 @@ This application is configured for Service Discovery and Configuration with the 
 
 ## Development
 
-Before you can build this project, you must install and configure the following dependencies on your machine:
+Before you can build th2is project, you must install and configure the following dependencies on your machine:
 
 1. [Node.js][]: We use Node to run a development web server and build the project.
    Depending on your system, you can install Node either from source or as a pre-packaged bundle.
